@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Efrain Cabrera</h1>
-<h3 align="center">I am a Full-Stack web developer graduated in Computer Engineering and a self-taught student in most of the topics I master. During my educational and professional experience, I have developed strong front-end skills with React, Next, and TypeScript, as well as responsive design with CSS3 and various popular frameworks. I also have experience in the backend using languages such as PHP with Laravel and, more specialized, in Java 11 with Spring. In addition to my technical skills, I have soft skills such as critical thinking and empathy, which are reflected in superior work performance, teamwork, and better decision making when working for a company.</h3>
+<h3 align="center">Full-Stack Developer with 3+ years of experience building scalable web/mobile apps. 
+Specialized in React ecosystems (Next.js, React Native) and modern UI/UX practices. Proven 
+track record in optimizing database performance and delivering user-centric solutions for industries 
+like healthcare and retail. </h3>
 
-- 🔭 I’m currently working on **2 side projects in a IT consultory**
+- 🌱 I’m currently learning **Nest.js, Docker and AWS**
 
-- 🌱 I’m currently learning **All react ecosystem and node**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-efrain-cabrera.vercel.app](https://portfolio-efrain-cabrera.vercel.app)
+- 👨‍💻 All of my projects are available at [https://portafolio-mirts.vercel.app](https://portafolio-mirts.vercel.app)
 
 - 💬 Ask me about **React, Next , Node, Typescript**
 
